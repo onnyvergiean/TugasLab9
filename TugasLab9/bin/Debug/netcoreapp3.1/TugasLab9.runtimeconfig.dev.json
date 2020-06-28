@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\PEPEGA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PEPEGA\\.nuget\\packages"
+    ]
+  }
+}
